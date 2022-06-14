@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T18:07:47.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CAVDa1bwz6ItGFBq-bSK" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T18:23:01.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="PpqZ-5F69lj8I1r3UWXk" version="20.0.1" type="github">
   <diagram id="YkAWMG_m6B_k-kGnJPvZ" name="Page-1">
     <mxGraphModel dx="837" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-1" value="Oregon Region(US-WEST-2)" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#666666;fillColor=#f5f5f5;verticalAlign=top;align=left;spacingLeft=30;fontColor=#333333;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="60" width="290" height="310" as="geometry" />
+          <mxGeometry x="50" y="60" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-2" value="Ohio (US-EAST-2)" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#666666;fillColor=#f5f5f5;verticalAlign=top;align=left;spacingLeft=30;fontColor=#333333;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="60" width="290" height="310" as="geometry" />
+          <mxGeometry x="520" y="60" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-3" value="VPC&amp;nbsp;&lt;span style=&quot;color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; background-color: rgb(241, 250, 255);&quot;&gt;172.30.0.0/16&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;a style=&quot;background-color: rgb(241, 250, 255); text-decoration-line: none; font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px;&quot; target=&quot;_top&quot; href=&quot;https://us-west-2.console.aws.amazon.com/vpc/home?region=us-west-2#VpcDetails:VpcId=vpc-0eeb007a2e574c1ec&quot;&gt;vpc-0eeb007a2e574c1ec&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="250" height="130" as="geometry" />
+          <mxGeometry x="70" y="90" width="250" height="290" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-4" value="Default VPC&amp;nbsp;&lt;span style=&quot;color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; background-color: rgb(241, 250, 255);&quot;&gt;172.31.0.0/16&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;a style=&quot;background-color: rgb(241, 250, 255); text-decoration-line: none; font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px;&quot; target=&quot;_top&quot; href=&quot;https://us-west-2.console.aws.amazon.com/vpc/home?region=us-west-2#VpcDetails:VpcId=vpc-081632d10a8207350&quot;&gt;vpc-081632d10a8207350&lt;/a&gt;&lt;br&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="230" width="250" height="130" as="geometry" />
+          <mxGeometry x="70" y="390" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-5" value="VPC&amp;nbsp;&lt;span style=&quot;color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px;&quot;&gt;172.29.0.0/16&lt;/span&gt;&lt;br style=&quot;color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;a style=&quot;background-color: rgb(241, 250, 255); text-decoration-line: none; font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px;&quot; target=&quot;_top&quot; href=&quot;https://us-east-2.console.aws.amazon.com/vpc/home?region=us-east-2#VpcDetails:VpcId=vpc-0dfb18263562bba05&quot;&gt;vpc-0dfb18263562bba05&lt;/a&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="250" height="130" as="geometry" />
+          <mxGeometry x="534" y="90" width="260" height="290" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-6" value="Default VPC&amp;nbsp;&lt;span style=&quot;color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; background-color: rgb(241, 250, 255);&quot;&gt;172.31.0.0/16&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;table style=&quot;min-width: 100%; color: rgb(22, 25, 31); border-spacing: 0px; background-color: var(--awsui-color-background-container-content); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; width: 2264px; table-layout: fixed;&quot; class=&quot;awsui-table-nowrap&quot; role=&quot;table&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;box-sizing: border-box; background-color: var(--awsui-color-background-container-header);&quot; class=&quot;awsui-table-row awsui-table-row-selected&quot;&gt;&lt;td style=&quot;border-bottom: 1px solid var(--awsui-color-border-item-selected); border-top: 1px solid var(--awsui-color-border-item-selected); padding: 0.2rem 2rem; box-sizing: border-box; overflow-wrap: break-word; background-color: var(--awsui-color-background-item-selected); overflow: hidden; text-overflow: ellipsis; min-width: 100px; width: 220px;&quot;&gt;&lt;a style=&quot;background-color: transparent; text-decoration-line: none;&quot; target=&quot;_top&quot; href=&quot;https://us-east-2.console.aws.amazon.com/vpc/home?region=us-east-2#VpcDetails:VpcId=vpc-0c79263dda23e3334&quot;&gt;vpc-0c79263dda23e3334&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="230" width="250" height="130" as="geometry" />
+          <mxGeometry x="540" y="390" width="254" height="130" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="271" y="149" width="49" height="51" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="544" y="294" width="50" height="51" as="geometry" />
+          <mxGeometry x="547" y="450" width="50" height="51" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="J36ZOiZXg0a6sdzW2Qwt-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,10 +43,10 @@
             <mxPoint x="540" y="174.18000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-12" value="Peering Connection 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-12" value="&lt;a style=&quot;background-color: rgb(241, 250, 255); text-decoration-line: none; font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start;&quot; target=&quot;_top&quot; href=&quot;https://us-west-2.console.aws.amazon.com/vpc/home?region=us-west-2#PeeringConnectionDetails:VpcPeeringConnectionId=pcx-07434d54c89b4c8dc&quot;&gt;pcx-07434d54c89b4c8dc&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-13" value="Peering Connection 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-13" value="&lt;a style=&quot;background-color: rgb(241, 250, 255); text-decoration-line: none; font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start;&quot; target=&quot;_top&quot; href=&quot;https://us-west-2.console.aws.amazon.com/vpc/home?region=us-west-2#PeeringConnectionDetails:VpcPeeringConnectionId=pcx-0e3fa9d0f7ecb869a&quot;&gt;pcx-0e3fa9d0f7ecb869a&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="149" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-14" value="Requester" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -56,7 +56,19 @@
           <mxGeometry x="537" y="193" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J36ZOiZXg0a6sdzW2Qwt-16" value="Accepter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="537" y="336" width="60" height="30" as="geometry" />
+          <mxGeometry x="542" y="494" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-30" value="&lt;ul&gt;&lt;li&gt;Public Subnet AZ1&lt;/li&gt;&lt;li&gt;Public Subnet AZ2&lt;/li&gt;&lt;li&gt;Public Subnet AZ3&lt;/li&gt;&lt;li&gt;Public Subnet AZ4&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="70" y="168" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-31" value="&lt;ul&gt;&lt;li&gt;Private Subnet AZ1&lt;/li&gt;&lt;li&gt;Private Subnet AZ2&lt;/li&gt;&lt;li&gt;Private Subnet AZ3&lt;/li&gt;&lt;li&gt;Private Subnet AZ4&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-32" value="&lt;ul&gt;&lt;li&gt;Public Subnet AZ1&lt;/li&gt;&lt;li&gt;Public Subnet AZ2&lt;/li&gt;&lt;li&gt;Public Subnet AZ3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J36ZOiZXg0a6sdzW2Qwt-33" value="&lt;ul&gt;&lt;li&gt;Private Subnet AZ1&lt;/li&gt;&lt;li&gt;Private Subnet AZ2&lt;/li&gt;&lt;li&gt;Private Subnet AZ3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="555" y="270" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
